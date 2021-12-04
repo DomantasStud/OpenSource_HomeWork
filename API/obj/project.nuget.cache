@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "59yTAWjkcff8HnV3en47SdRiDYtNxI7minua4OC38QIBgMw0HhJN4IMLFEGBO5INqVHl6rKhnX9YnWmzEYUDFw==",
+  "success": true,
+  "projectFilePath": "/Users/domantasskuja/Documents/GitHub/dotNetTask/build.proj",
+  "expectedPackageFiles": [
+    "/Users/domantasskuja/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/Users/domantasskuja/.nuget/packages/microsoft.netframework.referenceassemblies.net45/1.0.0/microsoft.netframework.referenceassemblies.net45.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+/Users/domantasskuja/Documents/GitHub/dotNetTask/LoggerService/bin/Debug/net5.0/LoggerService.deps.json
+/Users/domantasskuja/Documents/GitHub/dotNetTask/LoggerService/bin/Debug/net5.0/LoggerService.dll
+/Users/domantasskuja/Documents/GitHub/dotNetTask/LoggerService/bin/Debug/net5.0/ref/LoggerService.dll
+/Users/domantasskuja/Documents/GitHub/dotNetTask/LoggerService/bin/Debug/net5.0/LoggerService.pdb
+/Users/domantasskuja/Documents/GitHub/dotNetTask/LoggerService/obj/Debug/net5.0/LoggerService.csproj.AssemblyReference.cache
+/Users/domantasskuja/Documents/GitHub/dotNetTask/LoggerService/obj/Debug/net5.0/LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/domantasskuja/Documents/GitHub/dotNetTask/LoggerService/obj/Debug/net5.0/LoggerService.AssemblyInfoInputs.cache
+/Users/domantasskuja/Documents/GitHub/dotNetTask/LoggerService/obj/Debug/net5.0/LoggerService.AssemblyInfo.cs
+/Users/domantasskuja/Documents/GitHub/dotNetTask/LoggerService/obj/Debug/net5.0/LoggerService.csproj.CoreCompileInputs.cache
+/Users/domantasskuja/Documents/GitHub/dotNetTask/LoggerService/obj/Debug/net5.0/LoggerService.dll
+/Users/domantasskuja/Documents/GitHub/dotNetTask/LoggerService/obj/Debug/net5.0/ref/LoggerService.dll
+/Users/domantasskuja/Documents/GitHub/dotNetTask/LoggerService/obj/Debug/net5.0/LoggerService.pdb

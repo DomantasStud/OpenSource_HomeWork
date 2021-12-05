@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/domantasskuja/Documents/GitHub/dotNetTask/LoggerService/LoggerService.csproj": {}
+    "/Users/domantasskuja/Documents/GitHub/OpenSource_HomeWork/API/LoggerService/LoggerService.csproj": {}
   },
   "projects": {
-    "/Users/domantasskuja/Documents/GitHub/dotNetTask/LoggerService/LoggerService.csproj": {
+    "/Users/domantasskuja/Documents/GitHub/OpenSource_HomeWork/API/LoggerService/LoggerService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/domantasskuja/Documents/GitHub/dotNetTask/LoggerService/LoggerService.csproj",
+        "projectUniqueName": "/Users/domantasskuja/Documents/GitHub/OpenSource_HomeWork/API/LoggerService/LoggerService.csproj",
         "projectName": "LoggerService",
-        "projectPath": "/Users/domantasskuja/Documents/GitHub/dotNetTask/LoggerService/LoggerService.csproj",
+        "projectPath": "/Users/domantasskuja/Documents/GitHub/OpenSource_HomeWork/API/LoggerService/LoggerService.csproj",
         "packagesPath": "/Users/domantasskuja/.nuget/packages/",
-        "outputPath": "/Users/domantasskuja/Documents/GitHub/dotNetTask/LoggerService/obj/",
+        "outputPath": "/Users/domantasskuja/Documents/GitHub/OpenSource_HomeWork/API/LoggerService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/domantasskuja/.nuget/NuGet/NuGet.Config"

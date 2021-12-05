@@ -1496,11 +1496,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/domantasskuja/Documents/GitHub/dotNetTask/dotNetTask.API/dotNetTask.API.csproj",
+      "projectUniqueName": "/Users/domantasskuja/Documents/GitHub/OpenSource_HomeWork/API/dotNetTask.API/dotNetTask.API.csproj",
       "projectName": "dotNetTask.API",
-      "projectPath": "/Users/domantasskuja/Documents/GitHub/dotNetTask/dotNetTask.API/dotNetTask.API.csproj",
+      "projectPath": "/Users/domantasskuja/Documents/GitHub/OpenSource_HomeWork/API/dotNetTask.API/dotNetTask.API.csproj",
       "packagesPath": "/Users/domantasskuja/.nuget/packages/",
-      "outputPath": "/Users/domantasskuja/Documents/GitHub/dotNetTask/dotNetTask.API/obj/",
+      "outputPath": "/Users/domantasskuja/Documents/GitHub/OpenSource_HomeWork/API/dotNetTask.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/domantasskuja/.nuget/NuGet/NuGet.Config"
@@ -1515,8 +1515,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/domantasskuja/Documents/GitHub/dotNetTask/LoggerService/LoggerService.csproj": {
-              "projectPath": "/Users/domantasskuja/Documents/GitHub/dotNetTask/LoggerService/LoggerService.csproj"
+            "/Users/domantasskuja/Documents/GitHub/OpenSource_HomeWork/API/LoggerService/LoggerService.csproj": {
+              "projectPath": "/Users/domantasskuja/Documents/GitHub/OpenSource_HomeWork/API/LoggerService/LoggerService.csproj"
             }
           }
         }

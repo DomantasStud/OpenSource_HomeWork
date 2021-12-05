@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "//fJYuOVAoYQHCUGqr6hauvbtRGxDYK9pTgslP01JrNhpo/63xBqab6nvMblxKdUz6zxl2sWpiBIHL7FNT0BjQ==",
+  "dgSpecHash": "3YhPLiSSsHzPaEwFNtAeRm+abncMbdiXnIoRzRvJc6E8YlQqnjKZQh0y2gWzUW4Zg9Mvfh+RcdWgEkHmnLmaxw==",
   "success": true,
-  "projectFilePath": "/Users/domantasskuja/Documents/GitHub/dotNetTask/dotNetTask.UnitTests/dotNetTask.UnitTests.csproj",
+  "projectFilePath": "/Users/domantasskuja/Documents/GitHub/OpenSource_HomeWork/API/dotNetTask.UnitTests/dotNetTask.UnitTests.csproj",
   "expectedPackageFiles": [
     "/Users/domantasskuja/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/Users/domantasskuja/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

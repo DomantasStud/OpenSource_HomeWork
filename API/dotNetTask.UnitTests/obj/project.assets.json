@@ -7906,11 +7906,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/domantasskuja/Documents/GitHub/dotNetTask/dotNetTask.UnitTests/dotNetTask.UnitTests.csproj",
+      "projectUniqueName": "/Users/domantasskuja/Documents/GitHub/OpenSource_HomeWork/API/dotNetTask.UnitTests/dotNetTask.UnitTests.csproj",
       "projectName": "dotNetTask.UnitTests",
-      "projectPath": "/Users/domantasskuja/Documents/GitHub/dotNetTask/dotNetTask.UnitTests/dotNetTask.UnitTests.csproj",
+      "projectPath": "/Users/domantasskuja/Documents/GitHub/OpenSource_HomeWork/API/dotNetTask.UnitTests/dotNetTask.UnitTests.csproj",
       "packagesPath": "/Users/domantasskuja/.nuget/packages/",
-      "outputPath": "/Users/domantasskuja/Documents/GitHub/dotNetTask/dotNetTask.UnitTests/obj/",
+      "outputPath": "/Users/domantasskuja/Documents/GitHub/OpenSource_HomeWork/API/dotNetTask.UnitTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/domantasskuja/.nuget/NuGet/NuGet.Config"
@@ -7925,11 +7925,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/domantasskuja/Documents/GitHub/dotNetTask/dotNetTask.API/dotNetTask.API.csproj": {
-              "projectPath": "/Users/domantasskuja/Documents/GitHub/dotNetTask/dotNetTask.API/dotNetTask.API.csproj"
+            "/Users/domantasskuja/Documents/GitHub/OpenSource_HomeWork/API/dotNetTask.API/dotNetTask.API.csproj": {
+              "projectPath": "/Users/domantasskuja/Documents/GitHub/OpenSource_HomeWork/API/dotNetTask.API/dotNetTask.API.csproj"
             },
-            "/Users/domantasskuja/Documents/GitHub/dotNetTask/LoggerService/LoggerService.csproj": {
-              "projectPath": "/Users/domantasskuja/Documents/GitHub/dotNetTask/LoggerService/LoggerService.csproj"
+            "/Users/domantasskuja/Documents/GitHub/OpenSource_HomeWork/API/LoggerService/LoggerService.csproj": {
+              "projectPath": "/Users/domantasskuja/Documents/GitHub/OpenSource_HomeWork/API/LoggerService/LoggerService.csproj"
             }
           }
         }

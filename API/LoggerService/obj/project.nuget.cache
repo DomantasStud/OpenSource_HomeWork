@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZRuI55q4vG3Y+DrN3QhHVCGfu/Q9PhIu4aGiOzZ1Nx00qaIBpKDWmkfBbIVV+Mkq4xZNGeFm85EiCUQ/ZQWfUQ==",
+  "dgSpecHash": "cUJk/vOq9C1mZf6PuG2lkFD+12z4BkFVfBNeEUw9Fuq3NUNklujS/YV19SDrXVoccgHIxtFr15yuvHrH4z20uA==",
   "success": true,
-  "projectFilePath": "/Users/domantasskuja/Documents/GitHub/dotNetTask/LoggerService/LoggerService.csproj",
+  "projectFilePath": "/Users/domantasskuja/Documents/GitHub/OpenSource_HomeWork/API/LoggerService/LoggerService.csproj",
   "expectedPackageFiles": [
     "/Users/domantasskuja/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "/Users/domantasskuja/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.0/microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",

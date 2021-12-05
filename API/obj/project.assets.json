@@ -358,11 +358,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/domantasskuja/Documents/GitHub/dotNetTask/build.proj",
+      "projectUniqueName": "/Users/domantasskuja/Documents/GitHub/OpenSource_HomeWork/API/build.proj",
       "projectName": "build",
-      "projectPath": "/Users/domantasskuja/Documents/GitHub/dotNetTask/build.proj",
+      "projectPath": "/Users/domantasskuja/Documents/GitHub/OpenSource_HomeWork/API/build.proj",
       "packagesPath": "/Users/domantasskuja/.nuget/packages/",
-      "outputPath": "/Users/domantasskuja/Documents/GitHub/dotNetTask/obj/",
+      "outputPath": "/Users/domantasskuja/Documents/GitHub/OpenSource_HomeWork/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/domantasskuja/.nuget/NuGet/NuGet.Config"

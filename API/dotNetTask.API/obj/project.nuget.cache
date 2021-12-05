@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K1uyVN7kcfjUgrK/v4qtYsQ7QNYKQ/Ab5FpTGi5lvYrPbYhM7sOYBocU/R6KumV1j6/9ExgoNkUozmL2HP0XPQ==",
+  "dgSpecHash": "61v74KUv4AMUoKbZkOmEzipJieOxYAuAVQgbosuiovy8RIWyqusTtOXGFYq8c9fheGtZdz9ztnIY2pcY0OVe3w==",
   "success": true,
-  "projectFilePath": "/Users/domantasskuja/Documents/GitHub/dotNetTask/dotNetTask.API/dotNetTask.API.csproj",
+  "projectFilePath": "/Users/domantasskuja/Documents/GitHub/OpenSource_HomeWork/API/dotNetTask.API/dotNetTask.API.csproj",
   "expectedPackageFiles": [
     "/Users/domantasskuja/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/Users/domantasskuja/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

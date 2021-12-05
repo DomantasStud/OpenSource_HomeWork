@@ -25,7 +25,7 @@ function App() {
   return (
     <div className='App'>
       <div className='container'>
-        <h1>My Repositories</h1>
+        <h1>Employees</h1>
       </div>
       <div className='repo-container'>
         <ListLoading isLoading={appState.loading} repos={appState.repos} />

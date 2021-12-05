@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Moment from 'moment';
 
 const List = (props) => {
   
@@ -7,18 +7,33 @@ const List = (props) => {
 
   if (!repos || repos.length === 0) return <p>No repos, sorry</p>;
   return (
-    <ul>
-      <h2 className='list-head'>Available Public Repositories</h2>
+    <table>
+      <tr>
+        <th>Firstname</th>
+        <th>Lastname</th>
+        <th>Salary</th>
+        <th>Role</th>
+        <th>Employment date</th>
+        <th>Home address</th>
+      </tr>
       {repos.map((repo) => {
+        var dt = repo.employmentDate;
         return (
-          <li key={repo.id} className='list'>
-            <span className='repo-firstName'>{repo.firstName} </span>
-            <span className='repo-description'>{repo.lastName} </span>
-            <span className='repo-description'>{repo.currentSalary} $</span>
-          </li>
+          <tr key={repo.id} className='list'>
+            <td className='repo-firstName'>{repo.firstName} </td>
+            <td className='repo-description'>{repo.lastName} </td>
+            <td className='repo-description'>{repo.currentSalary} $</td>
+            <td className='repo-firstName'>{repo.role} </td>
+            
+            <td className='repo-description'>{Moment(dt).format('YYYY-MM-DD')}</td>
+            <td className=''>{repo.homeAddress}</td>
+          </tr>
         );
       })}
-    </ul>
+      
+    </table>
+    
+    
   );
 };
 
